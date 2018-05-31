@@ -1,0 +1,11 @@
+{
+  "name": "nyon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "convert-csv-to-json": "^0.0.13",
+    "express": "4.16.2",
+    "nodemon": "^1.17.4"
+  }
+}
